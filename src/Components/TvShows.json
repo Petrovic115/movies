@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "title":"Planet earth",
+        "img":"../img/breaking.jpg",
+        "description":"about end of the world",
+        "published":2018,
+        "rating":4.2
+    },
+    {
+        "id":2,
+        "title":"Breaking Bad",
+        "img":"../img/breaking.jpg",
+        "description":"show follows a man that cooks dope",
+        "published":2016,
+        "rating":4.9
+    },
+    {
+        "id":3,
+        "title":"Chernobyl",
+        "img":"../img/breaking.jpg",
+        "description":"show about the explosion of the nuclear plant",
+        "published":2019,
+        "rating":4
+    },
+    {
+        "id":4,
+        "title":"Sopranos",
+        "img":"../img/breaking.jpg",
+        "description":"follow the italian crime family",
+        "published":2012,
+        "rating":4.6
+    },
+    {
+        "id":5,
+        "title":"Flash",
+        "img":"../img/breaking.jpg",
+        "description":"dc show that follows hero Barry Allen",
+        "published":2018,
+        "rating":4.4
+    },
+    {
+        "id":6,
+        "title":"The Arrow",
+        "img":"../img/breaking.jpg",
+        "description":"dc show that follows vigillante Green Arrow ",
+        "published":2018,
+        "rating":4.2
+    },
+    {
+        "id":7,
+        "title":"Game of Thrones",
+        "img":"../img/breaking.jpg",
+        "description":"Show about a new world that have dragons and undead",
+        "published":2012,
+        "rating":5
+    },
+    {
+        "id":8,
+        "title":"The Office",
+        "img":"../img/breaking.jpg",
+        "description":"show follows group of people that works in the same office",
+        "published":2012,
+        "rating":4.5
+    },
+    {
+        "id":9,
+        "title":"Dark",
+        "img":"../img/breaking.jpg",
+        "description":"german show that follows people that found out how to travel in time",
+        "published":2020,
+        "rating":3.7
+    },
+    {
+        "id":10,
+        "title":"2 and a half man",
+        "img":"../img/breaking.jpg",
+        "description":"Tv show follows two brothers and a kid",
+        "published":2010,
+        "rating":4.9
+    }
+]

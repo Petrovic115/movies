@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "title":"Mission Imposible",
+        "description":"tom cruz acts as a mi6 agent",
+        "img":"../img/soprano.webp",
+        "published":2012,
+        "rating":3.6
+    },  {
+        "id":2,
+        "title":"Avatar",
+        "description":"Story about other planets",
+        "img":"../img/soprano.webp",
+        "published":2009,
+        "rating":5
+    },  {
+        "id":3,
+        "title":"Heat",
+        "description":"legendary movie",
+        "img":"../img/soprano.webp",
+        "published":1995,
+        "rating":5
+    },  {
+        "id":4,
+        "title":"Lords of the Rings",
+        "description":"about middle-earth and frodo",
+        "img":"../img/soprano.webp",
+        "published":2001,
+        "rating":4.7
+    },  {
+        "id":5,
+        "title":"Harry Potter",
+        "description":"movie about wizards",
+        "img":"../img/soprano.webp",
+        "published":2004,
+        "rating":4.2
+    },  {
+        "id":6,
+        "title":"Orlovi rano lete",
+        "description":"predobar film",
+        "img":"../img/soprano.webp",
+        "published":1995,
+        "rating":4
+    },  {
+        "id":7,
+        "title":"Armageddon",
+        "description":"movie about comet hitting earth",
+        "img":"../img/soprano.webp",
+        "published":1990,
+        "rating":3.9
+    },  {
+        "id":8,
+        "title":"Iron Man",
+        "description":"marvel movie about their hero Tony Stark",
+        "img":"../img/soprano.webp",
+        "published":2008,
+        "rating":4.2
+    },  {
+        "id":9,
+        "title":"Batman",
+        "description":"movie about vigillante that fights crime in Gotham",
+        "img":"../img/soprano.webp",
+        "published":2008,
+        "rating":4.8
+    },
+    {
+        "id":10,
+        "title":"Inception",
+        "description":"Group of people stealing secrets from persons dreams",
+        "img":"../img/soprano.webp",
+        "published":2014,
+        "rating":4.9
+    }
+]
